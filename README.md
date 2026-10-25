@@ -34,7 +34,7 @@ A project exploring data using Python.
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/VIJAY-OFF-DEV
 
 ---
 
